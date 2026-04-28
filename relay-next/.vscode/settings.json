@@ -1,0 +1,4 @@
+{
+  "relay.pathToLocateCommand": "../server/locate.sh",
+  "relay.rootDirectory": "packages/client"
+}
